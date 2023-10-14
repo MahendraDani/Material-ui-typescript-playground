@@ -1,3 +1,3 @@
-## GDSC Round-2 submission
+# Playground
 
-Round 2 submission for GDSC club, web development team.
+Learning to use material ui using react-typescript.
